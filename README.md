@@ -24,7 +24,7 @@ The screenshots of both the desktop view and mobile view is show in the img fold
 
 ### Links
 
-- Solution URL: (https://github.com/Odo-Peter)
+- Solution URL: (https://github.com/Odo-Peter/frontend_mentors_2)
 
 ## My process
 
